@@ -1,0 +1,12 @@
+<NuevaHistoria id="001">
+  <Titulo>It</Titulo>
+  <Autores>Stephen King</Autores>
+  <Cantidad>0</Cantidad>
+  <Categoria>Ciencia y Ficción</Categoria>
+  <Raiting>+16</Raiting>
+  <Nombre>Carlos</Nombre>
+  <Apellido>Alvarado</Apellido>
+  <Cedula>0987656456</Cedula>
+  <Correo>calvarado@espol.edu.ec</Correo>
+  <Edad>23</Edad>
+</NuevaHistoria>

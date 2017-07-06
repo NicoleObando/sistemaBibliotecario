@@ -1,0 +1,9 @@
+<BlackList>
+  <Reporte id="1">
+    <Libro>Alicia en el país de las maravillas</Libro>
+    <IDLibro>4</IDLibro>
+    <Usuario>Fernando</Usuario>
+    <CIUsuario>0987634456</CIUsuario>
+    <Observación>daña</Observación>
+  </Reporte>
+</BlackList>
